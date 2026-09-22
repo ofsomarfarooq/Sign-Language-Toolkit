@@ -15,20 +15,21 @@ To run the translation engine locally for testing and hardware integration:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ofsomarfarooq/Sign-Language-Toolkit.git
-Navigate to the client folder:
 
-Bash
-cd client/
+2. Navigate to the client folder:
 
-Install all necessary dependencies:
+   ```bash
+   cd client/
 
-Bash
-npm install
+3. Install all necessary dependencies:
 
-Launch the local development server:
+   ```bash
+   npm install
 
-Bash
-npm start
+4. Launch the local development server:
+
+   ```bash
+   npm start
 
 The web application and 3D canvas will automatically initialize in your default browser at http://localhost:3000.
 
