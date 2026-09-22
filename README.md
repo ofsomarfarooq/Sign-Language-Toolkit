@@ -14,7 +14,7 @@ To run the translation engine locally for testing and hardware integration:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/ofsomarfarooq/Sign-Language-Toolkit.git
 Navigate to the client folder:
 
 Bash
